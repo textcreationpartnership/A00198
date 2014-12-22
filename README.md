@@ -40,11 +40,29 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Articles to be enquired of in the generall visitation of Edmonde Bisshoppe of London exercised by hi
+Articles to be enquired of in the generall visitation of Edmonde Bisshoppe of London, exercised by h
 #####Body#####
-Articles to be enquired of in the generall visitation of Edmonde Bisshoppe of London exercised by hi
+
+1. The firste Articles are concernyng the Clergie, because they shuld of duetie giue good example, and that their faulte is more in dede, and more worthye punishmente, then the faultes of the laytie.
+
+1. ¶Articles concernyng Archedeacons their officialles and ministers.
+
+1. ¶Articles concernynge the thynge of the Churche, and ornamentes of the same.
+
+1. ¶Articles concernynge the Laytye.
+
+1. ¶Articles concernynge scholemaysters, and teachers of chyldren, men or women.
+
+1. ¶Articles concerning middewiues and such, as come to the trauayle of women beyng wyth chylde.
+
+1. ¶Articles concerning the original patrones of benefices, and other, that haue aduousons of the sayd benefices.
+
+1. ¶The tenour, forme, and effect of the othe, giuen by the sayd bisshop of London, to ye inquisitors & searchers for knowledge of thinges amisse, especially concerning the articles before rehearsed.
+
 #####Back#####
-Articles to be enquired of in the generall visitation of Edmonde Bisshoppe of London exercised by hi
+
+1. EXCVSVM
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
