@@ -40,7 +40,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Articles to be enquired of in the generall visitation of Edmonde Bisshoppe of London, exercised by h
+
 #####Body#####
 
 1. The firste Articles are concernyng the Clergie, because they shuld of duetie giue good example, and that their faulte is more in dede, and more worthye punishmente, then the faultes of the laytie.
